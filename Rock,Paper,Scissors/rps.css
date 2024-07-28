@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(19, 18, 18);
+}
+.container{
+    text-align: center;
+    width: 400px;
+    height: 500px;
+    border: 2px solid lime;
+    border-radius: 16px;
+    padding: 20px;
+    background-color: rgb(39, 36, 36);
+}
+button{
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 16px;
+    margin: 5px;
+    background-color: lime;
+    font-size: 1.5em;
+    padding: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+button:hover{
+    background-color: rgb(26, 218, 26);
+}
+.restart{
+    margin: 20px;
+    width: 200px;
+    height: 70px;
+}
+.Choice{
+    margin: 5px;
+    font-size: 1.5rem;
+    color: lime;
+}
+#gameResult{
+    font-size: 3rem;
+    margin: 45px;
+    color: rgb(26, 218, 26);
+}
+.score{
+    font-size: 1.5rem;
+    color: limegreen;
+}
