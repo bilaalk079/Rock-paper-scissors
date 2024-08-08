@@ -1,1 +1,1 @@
-This project was just for me practicing git and github
+ just  me practicing git and github
